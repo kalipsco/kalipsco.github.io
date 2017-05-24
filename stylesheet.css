@@ -6,7 +6,11 @@ body{
 h1{
 	font-family: Georgia;
 	font-weight: 200;
-	font-size: 200px; 
+	font-size: 50px; 
+}
 
-
+section{
+	font-family: Georgia;
+	font-weight: 100;
+	font-size: 20px
 }
